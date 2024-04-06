@@ -1,0 +1,49 @@
+commit 69ba0a25996c9a8298222578a4e38b98d36d4d64 (HEAD -> master, origin/master, origin/bug2, bug2)
+Merge: b27cf40 6f11a4e
+Author: elenagjurevskaa <elena.gjurevska@students.finki.ukim.mk>
+Date:   Sat Apr 6 13:46:11 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit b27cf401f0edad4e321c3e1cfbc1a752558c0cc0
+Author: elenagjurevskaa <elena.gjurevska@students.finki.ukim.mk>
+Date:   Sat Apr 6 13:18:37 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 6f11a4e70915cf91d2c1e7805565e1a787ea3aae
+Author: elenagjurevskaa <elena.gjurevska@students.finki.ukim.mk>
+Date:   Sat Apr 6 13:18:37 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 8f8d39e17b2b43f104a11c60fc3af2dbea62b980 (origin/bug1, bug1)
+Author: elenagjurevskaa <elena.gjurevska@students.finki.ukim.mk>
+Date:   Sat Apr 6 13:16:53 2024 +0200
+
+     Call method filterOddLengthStrings in main class
+commit 69ba0a25996c9a8298222578a4e38b98d36d4d64 (HEAD -> master, origin/master, origin/bug2, bug2)
+Merge: b27cf40 6f11a4e
+Author: elenagjurevskaa <elena.gjurevska@students.finki.ukim.mk>
+Date:   Sat Apr 6 13:46:11 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit b27cf401f0edad4e321c3e1cfbc1a752558c0cc0
+Author: elenagjurevskaa <elena.gjurevska@students.finki.ukim.mk>
+Date:   Sat Apr 6 13:18:37 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 6f11a4e70915cf91d2c1e7805565e1a787ea3aae
+Author: elenagjurevskaa <elena.gjurevska@students.finki.ukim.mk>
+Date:   Sat Apr 6 13:18:37 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 8f8d39e17b2b43f104a11c60fc3af2dbea62b980 (origin/bug1, bug1)
+Author: elenagjurevskaa <elena.gjurevska@students.finki.ukim.mk>
+Date:   Sat Apr 6 13:16:53 2024 +0200
+
+     Call method filterOddLengthStrings in main class
+
